@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+#quiz {
+    padding: 0.5em 1em;
+    margin: 2em 1.5em;
+    color: black;
+    background: #ffebe9;
+    border-top: solid 10px #ff7d6e;
+}
+
+#quizSelect {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: #ff7d6e;
+}
